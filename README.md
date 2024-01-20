@@ -6,11 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/first.PNG" alt="project-screenshot" width="100" height="300/">
+<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/first.PNG" alt="project-screenshot" width="200" height="300/">
 
-<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/second.PNG" alt="project-screenshot" width="100" height="300/">
+<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/second.PNG" alt="project-screenshot" width="200" height="300/">
 
-<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/third.PNG" alt="project-screenshot" width="100" height="300/">
+<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/third.PNG" alt="project-screenshot" width="200" height="300/">
 
   
   
