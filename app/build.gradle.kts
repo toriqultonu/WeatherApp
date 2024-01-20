@@ -34,6 +34,7 @@ android {
 
 dependencies {
 
+
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.8.0")
@@ -44,4 +45,6 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
     //  lottie animations
     implementation ("com.airbnb.android:lottie:6.1.0")
+
 }
+
