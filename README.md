@@ -4,13 +4,7 @@
 
 <p id="description">Welcome to the Weather Forecast App for Android a feature-rich application developed in Kotlin to keep you informed about the weather conditions in various locations.</p>
 
-<h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/first.PNG" alt="project-screenshot" width="200" height="300/">
-
-<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/second.PNG" alt="project-screenshot" width="200" height="300/">
-
-<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/third.PNG" alt="project-screenshot" width="200" height="300/">
 
   
   
@@ -58,3 +52,12 @@ This project is licensed under the This project is licensed under the MIT Licens
 <h2>🍰 Contribution Guidelines:</h2>
 
 Contributions are welcome! If you have ideas for improvements or new features feel free to open an issue or create a pull request.
+
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/first.PNG" alt="project-screenshot" width="200" height="300/">
+
+<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/second.PNG" alt="project-screenshot" width="200" height="300/">
+
+<img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/third.PNG" alt="project-screenshot" width="200" height="300/">
