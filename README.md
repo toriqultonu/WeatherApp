@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Weather App</h1>
 
-<p align="center"><img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/weatherbanner.png" alt="project-image"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/toriqultonu/WeatherApp/master/project_ss/weatherbanner2.png" alt="project-image"></p>
 
 <p id="description">Welcome to the Weather Forecast App for Android a feature-rich application developed in Kotlin to keep you informed about the weather conditions in various locations.</p>
 
